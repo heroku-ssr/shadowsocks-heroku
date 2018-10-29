@@ -1,1 +1,0 @@
-node local.js -s kerokussr.herokuapp.com -l 1080 -m aes-128-cfb -k wtaochina -r 80
